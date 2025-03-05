@@ -1,3 +1,4 @@
 .env
 training/yolov5l6u.pt
 yolov8x.pt
+models
